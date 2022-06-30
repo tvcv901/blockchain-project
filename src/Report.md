@@ -49,70 +49,78 @@ Here Bob acts as a verifier and checks if Alice knows the value of $x$ without a
 
 We have used Python's default `pow()` for modular exponentiation, and the `random` library to generate the random bit.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2>Flowchart depicting the control flow of the Blockchain</h2>
 
-<img align="center" src="Fake Product Identification System Flowchart.jpeg">
+<img align="center" src="images/Fake Product Identification System Flowchart.jpeg">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2>UML Diagram of classes used</h2>
 
-<img align="center" src="UML Diagram for Fake Product Identification System.jpeg">
+<img align="center" src="images/UML Diagram for Fake Product Identification System.jpeg">
+
+<br><br>
 
 <h2>Screenshots of the working Application</h2>
 
 <h3>Add Node (User) to the Blockchain</h3>
 
-<img align="center" src="Add Node (User).png">
+<img align="center" src="images/Add Node (User).png">
 
-<br><br><br>
+<br><br>
 
 <h3>Add a Product to a Blockchain</h3>
 
-<img align="center" src="Add Product.png">
+<img align="center" src="images/Add Product.png">
+
+<br><br>
 
 <h3>Show all users of the Blockchain</h3>
 
-<img align="center" src="Get All Nodes (Users).png">
+<img align="center" src="images/Get All Nodes (Users).png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h3>Show all products in the Blockchain</h3>
 
-<img align="center" src="Get All Products.png">
+<img align="center" src="images/Get All Products.png">
+
+<br><br>
 
 <h3>Create a Transaction</h3>
 
-<img align="center" src="Create Transaction.png">
+<img align="center" src="images/Create Transaction.png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h3>Mine a block</h3>
 
-<img align="center" src="Mine Block.png">
-<br><br><br>
-<img align="center" src="Mine Block (output).png">
+<img align="center" src="images/Mine Block.png">
+<br><br>
+<img align="center" src="images/Mine Block (output).png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h3>Show Blockchain</h3>
 
-<img align="center" src="Get Blockchain.png">
-<br>
-<img align="center" src="Get Blockchain (output).png">
+<img align="center" src="images/Get Blockchain.png">
+<br><br>
+<img align="center" src="images/Get Blockchain (output).png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h3>Incorrect Product Code</h3>
 
-<img align="center" src="Incorrect Product Code.png">
+<img align="center" src="images/Incorrect Product Code.png">
+
+<br><br>
 
 <h3>List of Suspicious Users</h3>
 
-<img align="center" src="Suspicious Users.png">
+<img align="center" src="images/Suspicious Users.png">
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="images/http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
